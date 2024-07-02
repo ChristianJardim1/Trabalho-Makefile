@@ -8,4 +8,5 @@ diario:
 	@cat > diario.txt
 
 adeus:
-	g++ -o tchau tchau. @./tchau
+	g++ -o tchau tchau.c
+	@./tchau
